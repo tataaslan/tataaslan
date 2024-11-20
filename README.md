@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @tataaslan.
-- 👀 I’m interested in data analysis.
-- 🌱 I’m currently learning data analysis with python to become data scientist.
 - 📫 Mail: tacettinataaslan@gmail.com, LinkedIn: https://www.linkedin.com/in/tacettin-ata-aslan/ 
 
 <!---
